@@ -1,0 +1,2768 @@
+2022-05-27T06:39:33.867Z error: Set price feed failed: Unexpected token p in JSON at position 0
+2022-05-27T06:40:35.330Z error: Set price feed failed: Unexpected token p in JSON at position 0
+2022-05-27T06:41:02.561Z error: Set price feed failed: data is not defined
+2022-05-27T06:41:17.400Z info: Set price request: pqd
+2022-05-27T06:41:17.622Z info: Set new price for symbol, transaction undefined
+2022-05-27T06:42:38.180Z info: Set price request: pqd
+2022-05-27T06:42:38.282Z info: Set new price for symbol, transaction undefined
+2022-05-27T06:43:16.530Z info: Set new price for symbol, transaction undefined
+2022-05-27T06:43:24.774Z info: Set new price for symbol, transaction undefined
+2022-05-27T06:45:48.397Z info: Set new price for symbol, transaction 0x408a685ec603510fab6c0ba9f1e0224ee8a133384e627dd71c83c8a7488d0b43
+2022-05-27T07:50:36.105Z info: Set new price for symbol, transaction 0xd8e88b917c7a842f2fd5a0f09183e14d6ba8e54a995c2e506e75895ae0fdd403
+2022-05-31T03:42:53.605Z error: uncaughtException: Cannot find module 'morgan'
+Require stack:
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+Error: Cannot find module 'morgan'
+Require stack:
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/config/express.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/index.js:8:13)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+2022-05-31T03:43:11.187Z error: uncaughtException: Cannot find module 'compression'
+Require stack:
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+Error: Cannot find module 'compression'
+Require stack:
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/config/express.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/index.js:8:13)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+2022-05-31T03:43:22.481Z error: uncaughtException: Cannot find module 'method-override'
+Require stack:
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+Error: Cannot find module 'method-override'
+Require stack:
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/config/express.js:5:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/index.js:8:13)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+2022-05-31T03:43:38.663Z error: uncaughtException: Cannot find module 'helmet'
+Require stack:
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+Error: Cannot find module 'helmet'
+Require stack:
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/config/express.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/index.js:8:13)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+2022-05-31T03:43:51.195Z error: uncaughtException: Cannot find module '../routes/'
+Require stack:
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+Error: Cannot find module '../routes/'
+Require stack:
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/config/express.js:8:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/index.js:8:13)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+2022-05-31T03:44:22.999Z error: uncaughtException: Cannot find module '../routes'
+Require stack:
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+Error: Cannot find module '../routes'
+Require stack:
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/config/express.js:8:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/index.js:8:13)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+2022-05-31T03:45:19.117Z error: uncaughtException: await is only valid in async functions and the top level bodies of modules
+/Users/apple/fxce/priceFeed/service/priceFeed_service.js:92
+            let priceResp = await priceFeedContract.methods.getLatestPrice(order.symbol).call();
+                            ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/controller/priceFeed.controller.js:7:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/routes/order.route.js:2:29)
+2022-05-31T03:46:13.509Z error: uncaughtException: await is only valid in async functions and the top level bodies of modules
+/Users/apple/fxce/priceFeed/service/priceFeed_service.js:143
+            let receipt = await contract.methods.getLatestPrice(order.symbol);
+                          ^^^^^
+
+SyntaxError: await is only valid in async functions and the top level bodies of modules
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/controller/priceFeed.controller.js:7:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/routes/order.route.js:2:29)
+2022-05-31T03:46:38.754Z error: uncaughtException: Cannot find module '@config/logger'
+Require stack:
+- /Users/apple/fxce/priceFeed/controller/priceFeed.controller.js
+- /Users/apple/fxce/priceFeed/routes/order.route.js
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+Error: Cannot find module '@config/logger'
+Require stack:
+- /Users/apple/fxce/priceFeed/controller/priceFeed.controller.js
+- /Users/apple/fxce/priceFeed/routes/order.route.js
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/controller/priceFeed.controller.js:8:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/routes/order.route.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+2022-05-31T03:47:15.016Z error: uncaughtException: ctrl is not defined
+ReferenceError: ctrl is not defined
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/routes/order.route.js:22:8)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/config/express.js:8:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/index.js:8:13)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2022-05-31T03:47:31.399Z error: uncaughtException: Cannot find module 'http-status'
+Require stack:
+- /Users/apple/fxce/priceFeed/middlewares/error.js
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+Error: Cannot find module 'http-status'
+Require stack:
+- /Users/apple/fxce/priceFeed/middlewares/error.js
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/middlewares/error.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/config/express.js:11:15)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+2022-05-31T03:47:46.092Z error: uncaughtException: Cannot find module '@utils/api.error'
+Require stack:
+- /Users/apple/fxce/priceFeed/middlewares/error.js
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+Error: Cannot find module '@utils/api.error'
+Require stack:
+- /Users/apple/fxce/priceFeed/middlewares/error.js
+- /Users/apple/fxce/priceFeed/config/express.js
+- /Users/apple/fxce/priceFeed/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/middlewares/error.js:2:18)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/config/express.js:11:15)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+2022-05-31T03:49:27.379Z info: Set new price for symbol, transaction undefined
+2022-05-31T04:39:25.029Z error: uncaughtException: missing ) after argument list
+/Users/apple/fxce/priceFeed/service/priceFeed_service.js:106
+        let receipt = await contract.methods.createChallenge("1306", 1000).send(Object.assign{contractParams, nonce: nonce});
+                                                                                       ^^^^^^
+
+SyntaxError: missing ) after argument list
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/controller/priceFeed.controller.js:8:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/routes/order.route.js:2:29)
+2022-05-31T04:59:31.436Z info: Create order error: 
+2022-06-01T02:27:07.937Z info: Create challenge error: 
+2022-06-01T03:37:29.272Z info: Create order error: 
+2022-06-01T03:38:53.632Z info: Create order error: 
+2022-06-01T03:38:54.515Z info: Create order error: 
+2022-06-01T03:38:57.288Z info: Create order error: 
+2022-06-01T03:39:40.736Z info: Create order error: 
+2022-06-01T03:39:50.074Z info: Create order error: 
+2022-06-01T03:40:02.260Z info: Create order error: 
+2022-06-01T03:40:02.847Z info: Create order error: 
+2022-06-01T03:40:15.423Z info: Create order error: 
+2022-06-01T03:40:25.953Z info: Create order error: 
+2022-06-01T03:40:43.456Z info: Create order error: 
+2022-06-01T03:41:28.587Z info: Create order error: 
+2022-06-01T03:41:29.160Z info: Create order error: 
+2022-06-01T03:41:30.958Z info: Create order error: 
+2022-06-01T03:44:33.759Z info: Create order error: 
+2022-06-01T03:44:34.551Z info: Create order error: 
+2022-06-01T03:45:11.639Z info: Create order error: 
+2022-06-01T03:53:22.660Z info: Create order error: 
+2022-06-01T03:53:23.888Z info: Create order error: 
+2022-06-01T03:55:39.932Z info: Create order error: 
+2022-06-01T03:55:41.050Z info: Create order error: 
+2022-06-01T03:55:41.732Z info: Create order error: 
+2022-06-01T04:02:41.311Z info: Create order error: 
+2022-06-01T04:02:43.616Z info: Create order error: 
+2022-06-01T04:03:35.005Z info: Create order error: 
+2022-06-01T04:05:26.093Z info: Create order error: 
+2022-06-01T06:45:03.629Z info: Create order error: 
+2022-06-01T06:47:40.713Z info: Create order error: 
+2022-06-01T06:47:42.410Z info: Create order error: 
+2022-06-01T06:47:43.237Z info: Create order error: 
+2022-06-01T06:47:48.383Z info: Create order error: 
+2022-06-01T06:47:49.313Z info: Create order error: 
+2022-06-01T06:47:49.949Z info: Create order error: 
+2022-06-01T06:48:19.049Z info: Create order error: 
+2022-06-01T06:48:19.816Z info: Create order error: 
+2022-06-01T06:48:53.236Z info: Create order error: 
+2022-06-01T06:48:53.964Z info: Create order error: 
+2022-06-01T06:48:56.272Z info: Create order error: 
+2022-06-01T06:49:19.298Z info: Create order error: 
+2022-06-01T06:49:56.589Z info: Create order error: 
+2022-06-01T06:50:31.252Z info: Create order error: 
+2022-06-01T06:51:06.432Z info: Create order error: 
+2022-06-01T06:51:49.181Z info: Create order error: 
+2022-06-01T06:52:16.709Z info: Create order error: 
+2022-06-01T06:52:50.774Z info: Create order error: 
+2022-06-01T06:58:53.076Z info: Create order error: 
+2022-06-01T06:59:08.075Z info: Create order error: 
+2022-06-01T06:59:09.208Z info: Create order error: 
+2022-06-01T07:01:37.718Z info: Create order error: 
+2022-06-01T07:02:28.463Z info: Create order error: 
+2022-06-01T07:03:11.584Z info: Create order error: 
+2022-06-01T07:05:14.484Z info: Create order error: 
+2022-06-01T08:32:56.421Z info: Create order error: 
+2022-06-01T08:44:21.183Z error: uncaughtException: Web3 is not defined
+ReferenceError: Web3 is not defined
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/service/token.service.js:20:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/service/order.service.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/controller/order.controller.js:1:38)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2022-06-02T02:29:50.744Z info: Create order error: 
+2022-06-02T08:45:53.576Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ETIMEDOUT 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1195:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ETIMEDOUT 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1195:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-02T12:55:07.046Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:65253)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:65253)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-02T12:55:07.061Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:65254)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:65254)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-02T12:55:07.064Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:65255)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:65255)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-02T12:55:07.066Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:65256)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:65256)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-03T05:51:50.249Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-03T07:22:52.330Z info: Create order error: 
+2022-06-03T07:22:55.431Z info: Create order error: 
+2022-06-03T12:44:23.485Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: read ENETDOWN
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: read ENETDOWN
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-07T02:07:25.298Z info: Confirm result error: 
+2022-06-07T02:11:56.939Z info: Create order error: 
+2022-06-07T02:55:15.092Z error: uncaughtException: contractProvider is not defined
+ReferenceError: contractProvider is not defined
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/utils/provider.js:19:1)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/service/priceFeed_service.js:8:25)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/controller/priceFeed.controller.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2022-06-07T02:55:31.271Z error: uncaughtException: provider is not defined
+ReferenceError: provider is not defined
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/utils/provider.js:19:35)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/service/priceFeed_service.js:8:25)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/controller/priceFeed.controller.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2022-06-07T05:53:24.190Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:49702)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:49702)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-09T02:59:18.085Z info: Create order error: 
+2022-06-10T01:49:10.912Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:55468)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:55468)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-13T12:49:22.212Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:49654)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:49654)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-15T09:52:22.420Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-15T11:05:41.184Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:65086)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:65086)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-17T01:50:36.472Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:63507)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:63507)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-17T12:43:50.417Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETUNREACH 202.143.111.229:32003 - Local (0.0.0.0:50170)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETUNREACH 202.143.111.229:32003 - Local (0.0.0.0:50170)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-17T12:43:50.430Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETUNREACH 202.143.111.229:32003 - Local (0.0.0.0:50171)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETUNREACH 202.143.111.229:32003 - Local (0.0.0.0:50171)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-17T12:43:50.430Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETUNREACH 202.143.111.229:32003 - Local (0.0.0.0:50172)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETUNREACH 202.143.111.229:32003 - Local (0.0.0.0:50172)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-20T11:07:25.167Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:51612)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:51612)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-20T11:07:25.173Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:51613)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:51613)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-20T11:07:25.175Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:51614)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:51614)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-24T01:35:46.886Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:65338)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:65338)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-29T03:41:31.985Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-29T03:41:31.989Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-06-30T10:58:32.284Z error: uncaughtException: Unhandled error. ({
+  code: -32603,
+  message: 'ETIMEDOUT',
+  data: { originalError: { code: 'ETIMEDOUT', connect: true } },
+  stack: 'Error: ETIMEDOUT\n' +
+    '    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)\n' +
+    '    at listOnTimeout (internal/timers.js:554:17)\n' +
+    '    at processTimers (internal/timers.js:497:7)'
+})
+Error [ERR_UNHANDLED_ERROR]: Unhandled error. ({
+  code: -32603,
+  message: 'ETIMEDOUT',
+  data: { originalError: { code: 'ETIMEDOUT', connect: true } },
+  stack: 'Error: ETIMEDOUT\n' +
+    '    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)\n' +
+    '    at listOnTimeout (internal/timers.js:554:17)\n' +
+    '    at processTimers (internal/timers.js:497:7)'
+})
+    at Web3ProviderEngine.emit (events.js:303:17)
+    at Web3ProviderEngine.EventEmitter.emit (domain.js:483:12)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:57:14
+    at afterRequest (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:151:21)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:176:21
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:238:9
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/once.js:12:16
+    at replenish (/Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:61:25)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:71:9
+    at eachLimit (/Users/apple/fxce/priceFeed/node_modules/async/eachLimit.js:43:36)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/doLimit.js:9:16
+    at end (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:217:5)
+    at Request._callback (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/subproviders/rpc.js:36:21)
+    at self.callback (/Users/apple/fxce/priceFeed/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:314:20)
+    at Request.EventEmitter.emit (domain.js:483:12)
+2022-07-04T07:45:58.846Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ETIMEDOUT 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ETIMEDOUT 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-07-04T07:45:58.850Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ETIMEDOUT 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ETIMEDOUT 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-07-06T05:47:40.328Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:55968)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:55968)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-07-08T08:47:31.655Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:47:31.657Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:47:31.658Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:48:39.944Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:48:39.946Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:48:39.947Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:50:51.846Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:50:51.848Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:50:51.849Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:52:54.395Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:52:54.397Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:52:54.397Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:53:58.071Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:53:58.073Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:53:58.074Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:54:59.686Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:54:59.688Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:54:59.689Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:55:28.361Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:55:28.363Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-08T08:55:28.363Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-07-12T06:03:35.160Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:61572)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:61572)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-07-12T06:26:52.454Z error: uncaughtException: listen EADDRINUSE: address already in use :::4000
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1311:16)
+    at listenInCluster (node:net:1359:12)
+    at Server.listen (node:net:1446:7)
+    at Function.listen (/Users/apple/fxce/priceFeed/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/config/express.js:61:5)
+    at Module._compile (node:internal/modules/cjs/loader:1092:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1121:10)
+    at Module.load (node:internal/modules/cjs/loader:972:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+    at Module.require (node:internal/modules/cjs/loader:996:19)
+    at require (node:internal/modules/cjs/helpers:92:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/index.js:7:13)
+    at Module._compile (node:internal/modules/cjs/loader:1092:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1121:10)
+    at Module.load (node:internal/modules/cjs/loader:972:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+2022-08-01T09:23:12.395Z error: uncaughtException: listen EADDRINUSE: address already in use :::4000
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (net.js:1316:16)
+    at listenInCluster (net.js:1364:12)
+    at Server.listen (net.js:1450:7)
+    at Function.listen (/Users/apple/fxce/priceFeed/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/config/express.js:61:5)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/Users/apple/fxce/priceFeed/index.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+2022-08-02T06:04:40.224Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:56026)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:56026)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-04T05:59:05.161Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ESOCKETTIMEDOUT
+    at ClientRequest.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:816:19)
+    at Object.onceWrapper (events.js:420:28)
+    at ClientRequest.emit (events.js:314:20)
+    at ClientRequest.EventEmitter.emit (domain.js:483:12)
+    at Socket.emitRequestTimeout (_http_client.js:715:9)
+    at Object.onceWrapper (events.js:420:28)
+    at Socket.emit (events.js:326:22)
+    at Socket.EventEmitter.emit (domain.js:483:12)
+    at Socket._onTimeout (net.js:483:8)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ESOCKETTIMEDOUT
+    at ClientRequest.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:816:19)
+    at Object.onceWrapper (events.js:420:28)
+    at ClientRequest.emit (events.js:314:20)
+    at ClientRequest.EventEmitter.emit (domain.js:483:12)
+    at Socket.emitRequestTimeout (_http_client.js:715:9)
+    at Object.onceWrapper (events.js:420:28)
+    at Socket.emit (events.js:326:22)
+    at Socket.EventEmitter.emit (domain.js:483:12)
+    at Socket._onTimeout (net.js:483:8)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-10T05:02:26.183Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:60217)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:60217)
+    at internalConnect (net.js:923:16)
+    at defaultTriggerAsyncIdScope (internal/async_hooks.js:364:12)
+    at net.js:1011:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-11T06:54:37.337Z error: Set price error: 
+2022-08-11T06:56:38.224Z error: Set price error: 
+2022-08-11T07:04:29.077Z error: Set price error: 
+2022-08-11T07:05:07.309Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-11T07:34:58.407Z error: Set price error: 
+2022-08-11T07:34:58.466Z error: Set price error: 
+2022-08-11T07:34:58.773Z error: Set price error: 
+2022-08-11T07:34:59.026Z error: Set price error: 
+2022-08-11T07:34:59.086Z error: Set price error: 
+2022-08-11T07:35:19.010Z error: Set price error: 
+2022-08-11T07:35:20.018Z error: Set price error: 
+2022-08-11T07:35:56.615Z error: Set price error: 
+2022-08-11T07:40:16.662Z error: uncaughtException: Unhandled error. ({
+  code: -32603,
+  message: 'ETIMEDOUT',
+  data: { originalError: { code: 'ETIMEDOUT', connect: true } },
+  stack: 'Error: ETIMEDOUT\n' +
+    '    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)\n' +
+    '    at listOnTimeout (internal/timers.js:557:17)\n' +
+    '    at processTimers (internal/timers.js:500:7)'
+})
+Error [ERR_UNHANDLED_ERROR]: Unhandled error. ({
+  code: -32603,
+  message: 'ETIMEDOUT',
+  data: { originalError: { code: 'ETIMEDOUT', connect: true } },
+  stack: 'Error: ETIMEDOUT\n' +
+    '    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)\n' +
+    '    at listOnTimeout (internal/timers.js:557:17)\n' +
+    '    at processTimers (internal/timers.js:500:7)'
+})
+    at new NodeError (internal/errors.js:322:7)
+    at Web3ProviderEngine.emit (events.js:389:17)
+    at Web3ProviderEngine.emit (domain.js:475:12)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:57:14
+    at afterRequest (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:151:21)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:176:21
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:238:9
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/once.js:12:16
+    at replenish (/Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:61:25)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:71:9
+    at eachLimit (/Users/apple/fxce/priceFeed/node_modules/async/eachLimit.js:43:36)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/doLimit.js:9:16
+    at end (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:217:5)
+    at Request._callback (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/subproviders/rpc.js:36:21)
+    at self.callback (/Users/apple/fxce/priceFeed/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:400:28)
+2022-08-11T07:50:27.366Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-11T08:01:54.246Z error: Set price error: 
+2022-08-11T08:48:19.613Z error: uncaughtException: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: -60,
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)'
+})
+Error [ERR_UNHANDLED_ERROR]: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: -60,
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1159:16)'
+})
+    at new NodeError (internal/errors.js:322:7)
+    at Web3ProviderEngine.emit (events.js:389:17)
+    at Web3ProviderEngine.emit (domain.js:475:12)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:57:14
+    at afterRequest (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:151:21)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:176:21
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:238:9
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/once.js:12:16
+    at replenish (/Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:61:25)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:71:9
+    at eachLimit (/Users/apple/fxce/priceFeed/node_modules/async/eachLimit.js:43:36)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/doLimit.js:9:16
+    at end (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:217:5)
+    at Request._callback (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/subproviders/rpc.js:36:21)
+    at self.callback (/Users/apple/fxce/priceFeed/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:400:28)
+2022-08-11T09:20:47.765Z error: Set price error: 
+2022-08-11T09:20:48.253Z error: Set price error: 
+2022-08-11T09:20:49.053Z error: Set price error: 
+2022-08-11T09:20:50.925Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-12T03:45:27.623Z error: uncaughtException: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: 'ETIMEDOUT',
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)'
+})
+Error [ERR_UNHANDLED_ERROR]: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: 'ETIMEDOUT',
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)'
+})
+    at Web3ProviderEngine.emit (events.js:303:17)
+    at Web3ProviderEngine.EventEmitter.emit (domain.js:483:12)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:57:14
+    at afterRequest (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:151:21)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:176:21
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:238:9
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/once.js:12:16
+    at replenish (/Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:61:25)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:71:9
+    at eachLimit (/Users/apple/fxce/priceFeed/node_modules/async/eachLimit.js:43:36)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/doLimit.js:9:16
+    at end (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:217:5)
+    at Request._callback (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/subproviders/rpc.js:36:21)
+    at self.callback (/Users/apple/fxce/priceFeed/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:314:20)
+    at Request.EventEmitter.emit (domain.js:483:12)
+2022-08-12T03:46:33.900Z error: uncaughtException: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: 'ETIMEDOUT',
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)'
+})
+Error [ERR_UNHANDLED_ERROR]: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: 'ETIMEDOUT',
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)'
+})
+    at Web3ProviderEngine.emit (events.js:303:17)
+    at Web3ProviderEngine.EventEmitter.emit (domain.js:483:12)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:57:14
+    at afterRequest (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:151:21)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:176:21
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:238:9
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/once.js:12:16
+    at replenish (/Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:61:25)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:71:9
+    at eachLimit (/Users/apple/fxce/priceFeed/node_modules/async/eachLimit.js:43:36)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/doLimit.js:9:16
+    at end (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:217:5)
+    at Request._callback (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/subproviders/rpc.js:36:21)
+    at self.callback (/Users/apple/fxce/priceFeed/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:314:20)
+    at Request.EventEmitter.emit (domain.js:483:12)
+2022-08-12T04:03:11.292Z error: Set price error: 
+2022-08-12T04:06:00.407Z error: Set price error: 
+2022-08-12T04:06:00.617Z error: Set price error: 
+2022-08-12T04:06:02.468Z error: uncaughtException: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: 'ETIMEDOUT',
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)'
+})
+Error [ERR_UNHANDLED_ERROR]: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: 'ETIMEDOUT',
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)'
+})
+    at Web3ProviderEngine.emit (events.js:303:17)
+    at Web3ProviderEngine.EventEmitter.emit (domain.js:483:12)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:57:14
+    at afterRequest (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:151:21)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:176:21
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:238:9
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/once.js:12:16
+    at replenish (/Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:61:25)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:71:9
+    at eachLimit (/Users/apple/fxce/priceFeed/node_modules/async/eachLimit.js:43:36)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/doLimit.js:9:16
+    at end (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:217:5)
+    at Request._callback (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/subproviders/rpc.js:36:21)
+    at self.callback (/Users/apple/fxce/priceFeed/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:314:20)
+    at Request.EventEmitter.emit (domain.js:483:12)
+2022-08-12T06:37:28.282Z error: Set price error: 
+2022-08-12T07:00:32.779Z error: Set price error: 
+2022-08-12T07:00:32.846Z error: Set price error: 
+2022-08-12T07:01:46.499Z error: Set price error: 
+2022-08-12T07:01:46.503Z error: Set price error: 
+2022-08-12T07:01:47.122Z error: Set price error: 
+2022-08-12T07:01:49.309Z error: Set price error: 
+2022-08-12T07:02:12.266Z error: Set price error: 
+2022-08-12T07:02:58.491Z error: Set price error: 
+2022-08-12T07:02:59.738Z error: Set price error: 
+2022-08-12T07:03:01.186Z error: Set price error: 
+2022-08-12T07:03:22.996Z error: Set price error: 
+2022-08-30T03:20:10.856Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:20:10.858Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:20:10.859Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:21:04.541Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:21:04.543Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:21:04.543Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:22:27.186Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:24:07.049Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:24:07.055Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:24:39.388Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:42:58.627Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:43:08.203Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:43:08.204Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:43:08.205Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:56:06.238Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T03:56:06.240Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-08-30T08:16:27.717Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ESOCKETTIMEDOUT
+    at ClientRequest.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:816:19)
+    at Object.onceWrapper (events.js:420:28)
+    at ClientRequest.emit (events.js:314:20)
+    at ClientRequest.EventEmitter.emit (domain.js:483:12)
+    at Socket.emitRequestTimeout (_http_client.js:715:9)
+    at Object.onceWrapper (events.js:420:28)
+    at Socket.emit (events.js:326:22)
+    at Socket.EventEmitter.emit (domain.js:483:12)
+    at Socket._onTimeout (net.js:483:8)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ESOCKETTIMEDOUT
+    at ClientRequest.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:816:19)
+    at Object.onceWrapper (events.js:420:28)
+    at ClientRequest.emit (events.js:314:20)
+    at ClientRequest.EventEmitter.emit (domain.js:483:12)
+    at Socket.emitRequestTimeout (_http_client.js:715:9)
+    at Object.onceWrapper (events.js:420:28)
+    at Socket.emit (events.js:326:22)
+    at Socket.EventEmitter.emit (domain.js:483:12)
+    at Socket._onTimeout (net.js:483:8)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+2022-08-30T08:16:27.855Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ESOCKETTIMEDOUT
+    at ClientRequest.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:816:19)
+    at Object.onceWrapper (events.js:420:28)
+    at ClientRequest.emit (events.js:314:20)
+    at ClientRequest.EventEmitter.emit (domain.js:483:12)
+    at Socket.emitRequestTimeout (_http_client.js:715:9)
+    at Object.onceWrapper (events.js:420:28)
+    at Socket.emit (events.js:326:22)
+    at Socket.EventEmitter.emit (domain.js:483:12)
+    at Socket._onTimeout (net.js:483:8)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ESOCKETTIMEDOUT
+    at ClientRequest.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:816:19)
+    at Object.onceWrapper (events.js:420:28)
+    at ClientRequest.emit (events.js:314:20)
+    at ClientRequest.EventEmitter.emit (domain.js:483:12)
+    at Socket.emitRequestTimeout (_http_client.js:715:9)
+    at Object.onceWrapper (events.js:420:28)
+    at Socket.emit (events.js:326:22)
+    at Socket.EventEmitter.emit (domain.js:483:12)
+    at Socket._onTimeout (net.js:483:8)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+2022-08-30T08:16:27.859Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ESOCKETTIMEDOUT
+    at ClientRequest.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:816:19)
+    at Object.onceWrapper (events.js:420:28)
+    at ClientRequest.emit (events.js:314:20)
+    at ClientRequest.EventEmitter.emit (domain.js:483:12)
+    at Socket.emitRequestTimeout (_http_client.js:715:9)
+    at Object.onceWrapper (events.js:420:28)
+    at Socket.emit (events.js:326:22)
+    at Socket.EventEmitter.emit (domain.js:483:12)
+    at Socket._onTimeout (net.js:483:8)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ESOCKETTIMEDOUT
+    at ClientRequest.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:816:19)
+    at Object.onceWrapper (events.js:420:28)
+    at ClientRequest.emit (events.js:314:20)
+    at ClientRequest.EventEmitter.emit (domain.js:483:12)
+    at Socket.emitRequestTimeout (_http_client.js:715:9)
+    at Object.onceWrapper (events.js:420:28)
+    at Socket.emit (events.js:326:22)
+    at Socket.EventEmitter.emit (domain.js:483:12)
+    at Socket._onTimeout (net.js:483:8)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+2022-09-27T09:29:37.006Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-09-27T09:29:37.008Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-09-27T09:29:37.008Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-09-28T03:50:23.262Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ECONNREFUSED 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-10-12T03:05:05.100Z error: Set price error: 
+2022-10-12T04:59:07.900Z error: Set price error: 
+2022-10-12T05:43:34.293Z error: Set price error: 
+2022-10-13T02:49:03.158Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:60678)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:60678)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+2022-10-13T02:49:03.202Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:60679)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:60679)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+2022-10-13T02:49:03.202Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:60680)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:60680)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+2022-10-13T02:59:22.916Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-10-14T05:48:30.065Z error: Set price error: 
+2022-10-14T05:48:30.125Z error: Set price error: 
+2022-10-14T05:48:31.172Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:55907)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:55907)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+2022-10-14T05:48:31.202Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:55908)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:55908)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+2022-10-14T05:48:31.203Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:55909)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ENETDOWN 202.143.111.229:32003 - Local (192.166.10.199:55909)
+    at internalConnect (node:net:959:16)
+    at defaultTriggerAsyncIdScope (node:internal/async_hooks:463:18)
+    at node:net:1052:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:442:9)
+    at process.topLevelDomainCallback (node:domain:152:15)
+    at process.callbackTrampoline (node:internal/async_hooks:128:24)
+2022-10-14T05:48:31.249Z error: Set price error: 
+2022-10-14T05:48:31.250Z error: Set price error: 
+2022-10-14T05:48:31.251Z error: Set price error: 
+2022-10-14T05:48:31.251Z error: Set price error: 
+2022-10-14T05:48:31.252Z error: Set price error: 
+2022-10-14T05:48:31.253Z error: Set price error: 
+2022-10-14T05:48:31.254Z error: Set price error: 
+2022-10-14T05:48:31.255Z error: Set price error: 
+2022-10-14T05:48:31.255Z error: Set price error: 
+2022-10-14T05:48:31.256Z error: Set price error: 
+2022-10-14T05:48:31.256Z error: Set price error: 
+2022-10-14T08:54:01.460Z error: Set price error: 
+2022-10-14T08:54:01.464Z error: Set price error: 
+2022-10-14T08:54:01.464Z error: Set price error: 
+2022-10-14T08:54:01.549Z error: Set price error: 
+2022-10-14T08:54:01.801Z error: Set price error: 
+2022-10-17T09:59:49.624Z error: Set price error: 
+2022-10-20T08:10:23.331Z error: Set price error: 
+2022-10-20T08:15:21.934Z error: Set price error: 
+2022-10-20T08:16:33.146Z error: Set price error: 
+2022-10-20T08:16:33.150Z error: Set price error: 
+2022-10-20T08:19:12.863Z error: Set price error: 
+2022-10-20T08:20:39.794Z error: Set price error: 
+2022-10-20T08:22:40.116Z error: Set price error: 
+2022-10-20T08:24:51.393Z error: Set price error: 
+2022-10-20T08:26:24.938Z error: Set price error: 
+2022-10-20T08:26:55.739Z error: Set price error: 
+2022-10-20T08:32:12.906Z error: Set price error: 
+2022-10-20T08:33:45.965Z error: Set price error: 
+2022-10-20T08:39:48.672Z error: Set price error: 
+2022-10-20T08:39:48.676Z error: Set price error: 
+2022-10-20T08:40:06.213Z error: Set price error: 
+2022-10-20T08:43:11.462Z error: Set price error: 
+2022-10-20T08:43:11.467Z error: Set price error: 
+2022-10-20T08:46:32.138Z error: Set price error: 
+2022-10-20T08:48:49.323Z error: Set price error: 
+2022-10-20T08:50:01.666Z error: Set price error: 
+2022-10-20T08:54:20.189Z error: Set price error: 
+2022-10-20T08:57:43.370Z error: Set price error: 
+2022-10-20T08:57:53.004Z error: Set price error: 
+2022-10-20T08:59:26.062Z error: Set price error: 
+2022-10-20T09:08:03.660Z error: Set price error: 
+2022-10-20T09:08:03.719Z error: Set price error: 
+2022-10-20T09:08:03.720Z error: Set price error: 
+2022-10-20T09:09:05.386Z error: Set price error: 
+2022-10-20T09:10:30.378Z error: Set price error: 
+2022-10-20T09:14:29.917Z error: Set price error: 
+2022-10-20T09:14:29.996Z error: Set price error: 
+2022-10-20T09:15:39.010Z error: Set price error: 
+2022-10-20T09:21:39.583Z error: Set price error: 
+2022-10-20T09:26:16.237Z error: Set price error: 
+2022-10-20T09:27:01.676Z error: Set price error: 
+2022-10-20T09:28:05.237Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ETIMEDOUT 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1146:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ETIMEDOUT 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1146:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2022-10-25T02:25:53.835Z error: Set price error: 
+2022-10-25T02:25:53.841Z error: Set price error: 
+2022-10-25T05:40:03.162Z error: Set price error: 
+2022-10-25T05:40:03.168Z error: Set price error: 
+2022-10-25T05:40:03.169Z error: Set price error: 
+2022-10-25T05:40:03.169Z error: Set price error: 
+2022-10-25T05:40:03.170Z error: Set price error: 
+2022-10-25T05:40:03.170Z error: Set price error: 
+2022-10-25T05:40:03.171Z error: Set price error: 
+2022-10-25T05:40:03.171Z error: Set price error: 
+2022-10-25T05:40:05.158Z error: Set price error: 
+2022-10-25T05:40:05.158Z error: Set price error: 
+2022-10-25T05:40:05.159Z error: Set price error: 
+2022-10-25T05:40:05.159Z error: Set price error: 
+2022-10-25T05:40:05.159Z error: Set price error: 
+2022-10-25T05:40:05.160Z error: Set price error: 
+2022-10-25T05:40:05.160Z error: Set price error: 
+2022-10-25T05:40:05.160Z error: Set price error: 
+2022-10-25T05:40:05.161Z error: Set price error: 
+2022-10-25T05:40:05.161Z error: Set price error: 
+2022-10-25T05:40:05.161Z error: Set price error: 
+2022-10-25T05:40:05.162Z error: Set price error: 
+2022-10-25T05:40:05.162Z error: Set price error: 
+2022-10-25T05:40:05.162Z error: Set price error: 
+2022-10-25T05:40:05.163Z error: Set price error: 
+2022-10-25T05:40:05.429Z error: Set price error: 
+2022-10-25T05:40:05.430Z error: Set price error: 
+2022-10-25T05:40:05.430Z error: Set price error: 
+2022-10-25T05:40:05.454Z error: Set price error: 
+2022-10-25T05:40:05.455Z error: Set price error: 
+2022-10-25T05:40:05.455Z error: Set price error: 
+2022-10-25T05:40:05.455Z error: Set price error: 
+2022-10-25T05:40:05.456Z error: Set price error: 
+2022-10-25T05:40:05.468Z error: Set price error: 
+2022-10-25T05:40:05.469Z error: Set price error: 
+2022-10-25T05:40:07.177Z error: Set price error: 
+2022-10-25T05:41:25.303Z error: Set price error: 
+2022-10-25T05:41:27.539Z error: Set price error: 
+2022-10-25T05:41:28.565Z error: Set price error: 
+2022-10-25T05:41:49.021Z error: Set price error: 
+2022-10-25T05:42:01.091Z error: Set price error: 
+2022-10-25T05:42:08.979Z error: Set price error: 
+2022-10-25T05:42:17.271Z error: Set price error: 
+2022-10-25T05:42:17.285Z error: Set price error: 
+2022-10-25T05:42:26.558Z error: Set price error: 
+2022-10-25T05:42:28.693Z error: Set price error: 
+2022-10-25T05:45:34.732Z error: Set price error: 
+2022-10-25T05:49:44.929Z error: Set price error: 
+2022-10-25T05:49:46.832Z error: Set price error: 
+2022-10-25T05:50:58.742Z error: Set price error: 
+2022-10-25T05:50:58.746Z error: Set price error: 
+2022-10-25T05:50:59.274Z error: Set price error: 
+2022-10-25T05:51:00.343Z error: Set price error: 
+2022-10-25T05:51:00.514Z error: Set price error: 
+2022-10-25T05:51:00.637Z error: Set price error: 
+2022-10-25T05:51:00.821Z error: Set price error: 
+2022-10-25T05:51:01.369Z error: Set price error: 
+2022-10-25T05:51:01.545Z error: Set price error: 
+2022-10-25T05:51:01.693Z error: Set price error: 
+2022-10-25T05:51:02.036Z error: Set price error: 
+2022-10-25T05:52:15.420Z error: Set price error: 
+2022-10-25T05:52:16.050Z error: Set price error: 
+2022-10-25T05:56:21.219Z error: Set price error: 
+2022-10-25T06:08:53.682Z error: Set price error: 
+2022-10-25T06:10:06.138Z error: Set price error: 
+2022-10-25T06:42:14.145Z error: Set price error: 
+2022-10-25T06:42:23.853Z error: Set price error: 
+2022-10-25T06:42:23.872Z error: Set price error: 
+2022-10-25T06:49:14.293Z error: Set price error: 
+2022-10-25T06:52:08.630Z error: Set price error: 
+2022-10-25T06:55:40.798Z error: Set price error: 
+2022-10-25T07:07:17.062Z error: Set price error: 
+2022-10-25T07:16:04.238Z error: Set price error: 
+2022-10-25T07:24:29.052Z error: Set price error: 
+2022-10-25T07:25:38.124Z error: Set price error: 
+2022-10-25T07:34:25.499Z error: Set price error: 
+2022-10-25T07:46:04.818Z error: Set price error: 
+2022-10-25T07:51:10.117Z error: Set price error: 
+2022-10-25T07:57:59.465Z error: Set price error: 
+2022-10-25T08:01:07.965Z error: Set price error: 
+2022-10-25T08:02:16.947Z error: Set price error: 
+2022-10-25T08:03:08.028Z error: Set price error: 
+2022-10-25T08:03:17.171Z error: Set price error: 
+2022-10-25T08:06:18.225Z error: Set price error: 
+2022-10-25T08:09:34.943Z error: Set price error: 
+2022-10-25T08:11:34.646Z error: Set price error: 
+2022-10-25T08:13:40.130Z error: Set price error: 
+2022-10-25T08:13:54.907Z error: Set price error: 
+2022-10-25T08:14:58.950Z error: Set price error: 
+2022-10-25T08:15:47.980Z error: Set price error: 
+2022-10-25T08:17:13.648Z error: Set price error: 
+2022-10-25T08:18:31.302Z error: Set price error: 
+2022-10-25T08:19:21.936Z error: Set price error: 
+2022-10-25T08:19:31.084Z error: Set price error: 
+2022-10-25T08:19:56.887Z error: Set price error: 
+2022-10-25T08:21:25.671Z error: Set price error: 
+2022-10-25T08:25:46.618Z error: Set price error: 
+2022-10-25T08:26:06.773Z error: Set price error: 
+2022-10-25T08:28:06.021Z error: Set price error: 
+2022-10-25T08:29:33.328Z error: Set price error: 
+2022-10-25T08:30:56.850Z error: Set price error: 
+2022-10-25T08:32:16.365Z error: Set price error: 
+2022-10-25T08:33:11.400Z error: Set price error: 
+2022-10-25T08:37:17.285Z error: Set price error: 
+2022-10-25T08:39:27.293Z error: Set price error: 
+2022-10-25T08:40:36.766Z error: Set price error: 
+2022-10-25T08:48:53.727Z error: Set price error: 
+2022-10-25T08:51:55.578Z error: Set price error: 
+2022-10-25T08:54:14.675Z error: Set price error: 
+2022-10-25T08:55:19.097Z error: Set price error: 
+2022-10-25T08:57:21.243Z error: Set price error: 
+2022-10-25T08:58:51.407Z error: Set price error: 
+2022-10-25T08:59:20.411Z error: Set price error: 
+2022-10-25T08:59:21.148Z error: Set price error: 
+2022-10-25T09:00:23.447Z error: Set price error: 
+2022-10-25T09:01:25.736Z error: Set price error: 
+2022-10-25T09:03:31.743Z error: Set price error: 
+2022-10-25T09:03:40.977Z error: Set price error: 
+2022-10-25T09:04:54.737Z error: Set price error: 
+2022-10-25T09:05:50.723Z error: Set price error: 
+2022-10-25T09:06:55.305Z error: Set price error: 
+2022-10-25T09:06:59.376Z error: Set price error: 
+2022-10-25T09:15:18.723Z error: Set price error: 
+2022-10-25T09:16:17.231Z error: Set price error: 
+2022-10-25T09:17:24.718Z error: Set price error: 
+2022-10-25T09:18:20.423Z error: Set price error: 
+2022-10-25T09:20:25.448Z error: Set price error: 
+2022-10-25T09:22:20.705Z error: Set price error: 
+2022-10-25T09:22:31.033Z error: Set price error: 
+2022-10-25T09:23:31.401Z error: Set price error: 
+2022-10-25T09:23:48.070Z error: Set price error: 
+2022-10-25T09:25:35.023Z error: Set price error: 
+2022-10-25T09:26:28.664Z error: Set price error: 
+2022-10-25T09:26:33.129Z error: Set price error: 
+2022-10-25T09:26:33.829Z error: Set price error: 
+2022-10-25T09:27:37.831Z error: Set price error: 
+2022-10-25T09:28:29.462Z error: Set price error: 
+2022-10-25T09:28:55.512Z error: Set price error: 
+2022-10-25T09:29:36.941Z error: Set price error: 
+2022-10-25T09:29:43.165Z error: Set price error: 
+2022-10-25T09:30:37.105Z error: Set price error: 
+2022-10-25T09:31:37.722Z error: Set price error: 
+2022-10-25T09:31:38.322Z error: Set price error: 
+2022-10-25T09:31:41.704Z error: Set price error: 
+2022-10-25T09:33:37.709Z error: Set price error: 
+2022-10-25T09:33:55.492Z error: Set price error: 
+2022-10-25T09:36:31.401Z error: Set price error: 
+2022-10-25T09:36:37.783Z error: Set price error: 
+2022-10-25T09:36:44.172Z error: Set price error: 
+2022-10-25T09:38:52.694Z error: Set price error: 
+2022-10-25T09:40:37.602Z error: Set price error: 
+2022-10-25T09:40:46.560Z error: Set price error: 
+2022-10-25T09:41:05.494Z error: Set price error: 
+2022-10-25T09:41:49.134Z error: Set price error: 
+2022-10-25T09:41:49.670Z error: Set price error: 
+2022-10-25T09:44:19.533Z error: Set price error: 
+2022-10-25T09:45:04.773Z error: Set price error: 
+2022-10-25T09:45:28.863Z error: Set price error: 
+2022-10-25T09:49:31.725Z error: uncaughtException: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: 'ETIMEDOUT',
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)'
+})
+Error [ERR_UNHANDLED_ERROR]: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: 'ETIMEDOUT',
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)'
+})
+    at Web3ProviderEngine.emit (events.js:303:17)
+    at Web3ProviderEngine.EventEmitter.emit (domain.js:483:12)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:57:14
+    at afterRequest (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:151:21)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:176:21
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:238:9
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/once.js:12:16
+    at replenish (/Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:61:25)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:71:9
+    at eachLimit (/Users/apple/fxce/priceFeed/node_modules/async/eachLimit.js:43:36)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/doLimit.js:9:16
+    at end (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:217:5)
+    at Request._callback (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/subproviders/rpc.js:36:21)
+    at self.callback (/Users/apple/fxce/priceFeed/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:314:20)
+    at Request.EventEmitter.emit (domain.js:483:12)
+2022-10-26T02:05:54.438Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-10-26T02:05:54.439Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-10-26T02:05:54.440Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+2022-10-26T02:09:46.492Z error: Set price error: 
+2022-10-26T02:09:49.113Z error: Set price error: 
+2022-10-26T02:11:06.712Z error: Set price error: 
+2022-10-26T02:11:57.635Z error: Set price error: 
+2022-10-26T02:12:44.489Z error: Set price error: 
+2022-10-26T02:13:49.500Z error: Set price error: 
+2022-10-26T02:13:50.094Z error: Set price error: 
+2022-10-26T02:16:11.761Z error: Set price error: 
+2022-10-26T02:16:33.225Z error: Set price error: 
+2022-10-26T02:17:15.230Z error: Set price error: 
+2022-10-26T02:17:23.967Z error: Set price error: 
+2022-10-26T02:17:38.744Z error: Set price error: 
+2022-10-26T02:18:41.881Z error: Set price error: 
+2022-10-26T02:19:05.224Z error: Set price error: 
+2022-10-26T02:19:21.075Z error: Set price error: 
+2022-10-26T02:20:02.986Z error: Set price error: 
+2022-10-26T02:20:03.550Z error: Set price error: 
+2022-10-26T02:20:17.296Z error: Set price error: 
+2022-10-26T02:20:31.339Z error: Set price error: 
+2022-10-26T02:21:39.907Z error: Set price error: 
+2022-10-26T02:24:01.811Z error: Set price error: 
+2022-10-26T02:24:30.015Z error: Set price error: 
+2022-10-26T02:27:29.302Z error: Set price error: 
+2022-10-26T02:28:35.101Z error: Set price error: 
+2022-10-26T02:29:05.091Z error: Set price error: 
+2022-10-26T02:29:53.856Z error: Set price error: 
+2022-10-26T02:33:45.543Z error: Set price error: 
+2022-10-26T02:35:23.832Z error: Set price error: 
+2022-10-26T02:36:19.253Z error: Set price error: 
+2022-10-26T02:36:45.964Z error: Set price error: 
+2022-10-26T02:36:46.939Z error: Set price error: 
+2022-10-26T02:39:06.502Z error: Set price error: 
+2022-10-26T02:39:17.166Z error: Set price error: 
+2022-10-26T02:40:37.847Z error: Set price error: 
+2022-10-26T02:42:04.809Z error: Set price error: 
+2022-10-26T02:42:05.260Z error: Set price error: 
+2022-10-26T02:42:43.552Z error: Set price error: 
+2022-10-26T02:43:07.749Z error: Set price error: 
+2022-10-26T02:43:14.504Z error: Set price error: 
+2022-10-26T02:44:22.731Z error: Set price error: 
+2022-10-26T02:52:40.075Z error: Set price error: 
+2022-10-26T02:54:10.183Z error: Set price error: 
+2022-10-26T02:55:24.432Z error: Set price error: 
+2022-10-26T02:59:41.715Z error: Set price error: 
+2022-10-26T03:03:48.245Z error: Set price error: 
+2022-10-26T03:05:33.136Z error: Set price error: 
+2022-10-26T03:06:08.454Z error: Set price error: 
+2022-10-26T03:09:27.695Z error: Set price error: 
+2022-10-26T03:09:40.908Z error: Set price error: 
+2022-10-26T03:10:46.282Z error: Set price error: 
+2022-10-26T03:12:40.218Z error: Set price error: 
+2022-10-26T03:12:51.906Z error: Set price error: 
+2022-10-26T03:13:56.760Z error: Set price error: 
+2022-10-26T03:15:56.029Z error: Set price error: 
+2022-10-26T03:17:04.657Z error: Set price error: 
+2022-10-26T03:24:49.148Z error: Set price error: 
+2022-10-26T03:26:35.995Z error: Set price error: 
+2022-10-26T03:26:41.984Z error: Set price error: 
+2022-10-26T03:31:01.779Z error: Set price error: 
+2022-10-26T03:35:16.855Z error: Set price error: 
+2022-10-26T03:40:58.084Z error: Set price error: 
+2022-10-26T03:51:21.378Z error: Set price error: 
+2022-10-26T03:53:26.511Z error: Set price error: 
+2022-10-26T03:54:26.568Z error: Set price error: 
+2022-10-26T03:57:39.126Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/Users/apple/fxce/priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (internal/timers.js:554:17)
+    at processTimers (internal/timers.js:497:7)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at runMicrotasks (<anonymous>)
+    at runNextTicks (internal/process/task_queues.js:62:5)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+2022-10-27T02:52:49.373Z error: Set price error: 
+2022-10-27T02:57:32.502Z error: Set price error: 
+2022-10-27T03:03:06.497Z error: Set price error: 
+2022-10-27T03:06:54.060Z error: Set price error: 
+2022-10-27T03:07:57.921Z error: Set price error: 
+2022-10-27T03:23:56.054Z error: Set price error: 
+2022-10-27T03:37:04.468Z error: Set price error: 
+2022-10-27T03:37:06.547Z error: Set price error: 
+2022-10-27T03:40:11.224Z error: Set price error: 
+2022-10-27T03:45:03.706Z error: Set price error: 
+2022-10-27T03:45:49.579Z error: Set price error: 
+2022-10-27T03:46:11.155Z error: Set price error: 
+2022-10-27T03:47:23.699Z error: Set price error: 
+2022-10-27T03:49:50.919Z error: Set price error: 
+2022-10-27T03:52:59.395Z error: Set price error: 
+2022-10-27T03:57:24.991Z error: Set price error: 
+2022-10-27T03:57:24.997Z error: Set price error: 
+2022-10-27T04:00:53.792Z error: Set price error: 
+2022-10-27T04:01:46.254Z error: Set price error: 
+2022-10-27T04:01:46.284Z error: Set price error: 
+2022-10-27T04:01:46.382Z error: Set price error: 
+2022-10-27T04:01:46.764Z error: Set price error: 
+2022-10-27T04:01:46.857Z error: Set price error: 
+2022-10-27T04:01:46.909Z error: Set price error: 
+2022-10-27T04:01:47.669Z error: Set price error: 
+2022-10-27T04:01:47.671Z error: Set price error: 
+2022-10-27T04:01:47.675Z error: Set price error: 
+2022-10-27T04:01:47.676Z error: Set price error: 
+2022-10-27T04:01:58.912Z error: Set price error: 
+2022-10-27T04:01:58.930Z error: Set price error: 
+2022-10-27T04:01:59.116Z error: Set price error: 
+2022-10-27T04:02:00.212Z error: Set price error: 
+2022-10-27T04:02:00.628Z error: Set price error: 
+2022-10-27T04:02:00.650Z error: Set price error: 
+2022-10-27T04:02:00.692Z error: Set price error: 
+2022-10-27T04:02:00.696Z error: Set price error: 
+2022-10-27T04:02:00.800Z error: Set price error: 
+2022-10-27T04:02:00.969Z error: Set price error: 
+2022-10-27T04:02:01.055Z error: Set price error: 
+2022-10-27T04:02:01.057Z error: Set price error: 
+2022-10-27T04:02:01.063Z error: Set price error: 
+2022-10-27T04:02:01.164Z error: Set price error: 
+2022-10-27T04:02:01.173Z error: Set price error: 
+2022-10-27T04:02:01.273Z error: Set price error: 
+2022-10-27T04:02:01.580Z error: Set price error: 
+2022-10-27T04:02:01.585Z error: Set price error: 
+2022-10-27T04:02:01.704Z error: Set price error: 
+2022-10-27T04:02:01.704Z error: Set price error: 
+2022-10-27T04:02:06.043Z error: uncaughtException: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: 'ETIMEDOUT',
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)'
+})
+Error [ERR_UNHANDLED_ERROR]: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: 'ETIMEDOUT',
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)'
+})
+    at Web3ProviderEngine.emit (events.js:303:17)
+    at Web3ProviderEngine.EventEmitter.emit (domain.js:483:12)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:57:14
+    at afterRequest (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:151:21)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:176:21
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:238:9
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/once.js:12:16
+    at replenish (/Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:61:25)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:71:9
+    at eachLimit (/Users/apple/fxce/priceFeed/node_modules/async/eachLimit.js:43:36)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/doLimit.js:9:16
+    at end (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:217:5)
+    at Request._callback (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/subproviders/rpc.js:36:21)
+    at self.callback (/Users/apple/fxce/priceFeed/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:314:20)
+    at Request.EventEmitter.emit (domain.js:483:12)
+2022-10-27T06:34:54.839Z error: Set price error: 
+2022-10-27T06:37:04.894Z error: Set price error: 
+2022-10-27T06:37:04.937Z error: Set price error: 
+2022-10-27T06:37:05.070Z error: Set price error: 
+2022-10-27T06:39:30.659Z error: Set price error: 
+2022-10-27T06:39:35.635Z error: Set price error: 
+2022-10-27T06:39:35.640Z error: Set price error: 
+2022-10-27T06:42:02.311Z error: Set price error: 
+2022-10-27T06:42:02.344Z error: Set price error: 
+2022-10-27T06:44:29.114Z error: Set price error: 
+2022-10-27T06:45:35.697Z error: Set price error: 
+2022-10-27T06:46:51.067Z error: Set price error: 
+2022-10-27T06:46:51.070Z error: Set price error: 
+2022-10-27T06:46:53.296Z error: Set price error: 
+2022-10-27T06:47:48.609Z error: Set price error: 
+2022-10-27T06:49:04.551Z error: Set price error: 
+2022-10-27T06:49:13.450Z error: Set price error: 
+2022-10-27T06:51:01.121Z error: Set price error: 
+2022-10-27T06:51:19.663Z error: Set price error: 
+2022-10-27T06:52:14.717Z error: Set price error: 
+2022-10-27T06:52:23.482Z error: Set price error: 
+2022-10-27T06:53:22.784Z error: Set price error: 
+2022-10-27T06:53:25.009Z error: Set price error: 
+2022-10-27T06:54:29.993Z error: Set price error: 
+2022-10-27T06:55:13.292Z error: Set price error: 
+2022-10-27T06:55:29.587Z error: Set price error: 
+2022-10-27T06:56:15.656Z error: Set price error: 
+2022-10-27T06:56:34.191Z error: Set price error: 
+2022-10-27T06:59:14.776Z error: Set price error: 
+2022-10-27T06:59:17.064Z error: Set price error: 
+2022-10-27T07:00:03.907Z error: Set price error: 
+2022-10-27T07:00:22.619Z error: Set price error: 
+2022-10-27T07:01:34.647Z error: Set price error: 
+2022-10-27T07:02:19.681Z error: Set price error: 
+2022-10-27T07:02:39.926Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ETIMEDOUT 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: connect ETIMEDOUT 202.143.111.229:32003
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)
+    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)
+    at PollingBlockTracker._performSync (/Users/apple/fxce/priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:434:9)
+    at process.topLevelDomainCallback (domain.js:138:15)
+    at process.callbackTrampoline (internal/async_hooks.js:124:14)
+2022-10-27T07:37:40.354Z error: Set price error: 
+2022-10-27T07:38:48.608Z error: Set price error: 
+2022-10-27T07:39:46.629Z error: Set price error: 
+2022-10-27T07:39:53.062Z error: Set price error: 
+2022-10-27T07:40:51.067Z error: Set price error: 
+2022-10-27T07:42:23.334Z error: Set price error: 
+2022-10-27T07:45:49.150Z error: Set price error: 
+2022-10-27T07:48:17.248Z error: Set price error: 
+2022-10-27T07:48:17.255Z error: Set price error: 
+2022-10-27T07:49:07.382Z error: Set price error: 
+2022-10-27T07:49:24.901Z error: Set price error: 
+2022-10-27T07:51:34.515Z error: Set price error: 
+2022-10-27T07:51:43.797Z error: Set price error: 
+2022-10-27T07:53:55.977Z error: Set price error: 
+2022-10-27T07:53:58.041Z error: Set price error: 
+2022-10-27T07:56:15.459Z error: Set price error: 
+2022-10-27T07:56:15.491Z error: Set price error: 
+2022-10-27T07:57:19.893Z error: Set price error: 
+2022-10-27T07:57:19.923Z error: Set price error: 
+2022-10-27T07:58:38.346Z error: Set price error: 
+2022-10-27T07:58:41.477Z error: Set price error: 
+2022-10-27T08:00:01.103Z error: Set price error: 
+2022-10-27T08:02:22.208Z error: Set price error: 
+2022-10-27T08:08:13.418Z error: Set price error: 
+2022-10-27T08:08:26.212Z error: Set price error: 
+2022-10-27T08:09:27.302Z error: Set price error: 
+2022-10-27T08:09:29.385Z error: Set price error: 
+2022-10-27T08:10:37.964Z error: Set price error: 
+2022-10-27T08:12:33.819Z error: uncaughtException: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: 'ETIMEDOUT',
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)'
+})
+Error [ERR_UNHANDLED_ERROR]: Unhandled error. ({
+  code: -32603,
+  message: 'connect ETIMEDOUT 202.143.111.229:32003',
+  data: {
+    originalError: {
+      errno: 'ETIMEDOUT',
+      code: 'ETIMEDOUT',
+      syscall: 'connect',
+      address: '202.143.111.229',
+      port: 32003
+    }
+  },
+  stack: 'Error: connect ETIMEDOUT 202.143.111.229:32003\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1144:16)\n' +
+    '    at TCPConnectWrap.callbackTrampoline (internal/async_hooks.js:126:14)'
+})
+    at Web3ProviderEngine.emit (events.js:303:17)
+    at Web3ProviderEngine.EventEmitter.emit (domain.js:483:12)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:57:14
+    at afterRequest (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:151:21)
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:176:21
+    at /Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:238:9
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/once.js:12:16
+    at replenish (/Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:61:25)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/eachOfLimit.js:71:9
+    at eachLimit (/Users/apple/fxce/priceFeed/node_modules/async/eachLimit.js:43:36)
+    at /Users/apple/fxce/priceFeed/node_modules/async/internal/doLimit.js:9:16
+    at end (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:217:5)
+    at Request._callback (/Users/apple/fxce/priceFeed/node_modules/@trufflesuite/web3-provider-engine/subproviders/rpc.js:36:21)
+    at self.callback (/Users/apple/fxce/priceFeed/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:314:20)
+    at Request.EventEmitter.emit (domain.js:483:12)
+2023-07-28T09:21:39.181Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+2023-07-28T09:21:39.185Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+2023-07-28T09:21:39.186Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+2023-07-28T09:21:56.463Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+2023-07-28T09:21:56.466Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+2023-07-28T09:21:56.467Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+2023-07-28T09:38:04.421Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+2023-07-28T09:38:04.425Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+2023-07-28T09:38:04.427Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+2023-07-28T09:38:31.809Z error: uncaughtException: redis is not defined
+ReferenceError: redis is not defined
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/index.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+2023-07-28T09:38:46.858Z error: uncaughtException: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+2023-07-28T10:00:27.810Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2023-07-28T10:16:27.621Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2023-07-28T10:16:27.623Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2023-07-28T10:16:27.624Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2023-07-29T03:16:24.846Z info: Create order error: 
+2023-07-29T03:17:31.129Z info: Create order error: 
+2023-07-29T03:24:24.269Z info: Create order error: 
+2023-07-29T03:25:56.664Z info: Create order error: 
+2023-07-29T03:26:14.232Z info: Create order error: 
+2023-07-29T03:27:13.894Z info: Create order error: 
+2023-07-29T03:27:57.208Z info: Create order error: 
+2023-07-29T03:29:11.820Z info: Create order error: 
+2023-07-29T03:29:43.391Z info: Create order error: 
+2023-07-29T03:30:03.771Z info: Create order error: 
+2023-07-29T03:30:35.737Z info: Create order error: 
+2023-07-29T03:31:41.539Z info: Create order error: 
+2023-07-29T03:41:00.338Z info: Create order error: 
+2023-07-29T03:41:35.864Z info: Create order error: 
+2023-07-29T03:42:05.477Z info: Create order error: 
+2023-07-29T03:44:01.972Z info: Create order error: 
+2023-07-29T03:44:34.831Z info: Create order error: 
+2023-07-29T03:45:38.010Z info: Create order error: 
+2023-07-29T03:46:14.977Z info: Create order error: 
+2023-07-29T03:46:37.904Z info: Create order error: 
+2023-07-29T03:46:57.062Z info: Create order error: 
+2023-07-29T03:47:11.754Z info: Create order error: 
+2023-07-29T03:47:25.628Z info: Create order error: 
+2023-07-29T03:48:00.086Z info: Create order error: 
+2023-07-29T03:48:14.059Z info: Create order error: 
+2023-07-29T03:48:33.168Z info: Create order error: 
+2023-07-29T04:01:02.353Z info: Create order error: 
+2023-07-29T05:55:58.508Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2023-07-29T13:29:52.403Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2023-07-31T02:25:03.504Z info: Create order error: 
+2023-07-31T02:26:34.096Z info: Create order error: 
+2023-07-31T02:29:09.327Z info: Create order error: 
+2023-07-31T02:30:22.402Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ESOCKETTIMEDOUT
+    at ClientRequest.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:816:19)
+    at Object.onceWrapper (node:events:627:28)
+    at ClientRequest.emit (node:events:513:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at TLSSocket.emitRequestTimeout (node:_http_client:839:9)
+    at Object.onceWrapper (node:events:627:28)
+    at TLSSocket.emit (node:events:525:35)
+    at TLSSocket.emit (node:domain:489:12)
+    at TLSSocket.Socket._onTimeout (node:net:550:8)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ESOCKETTIMEDOUT
+    at ClientRequest.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:816:19)
+    at Object.onceWrapper (node:events:627:28)
+    at ClientRequest.emit (node:events:513:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at TLSSocket.emitRequestTimeout (node:_http_client:839:9)
+    at Object.onceWrapper (node:events:627:28)
+    at TLSSocket.emit (node:events:525:35)
+    at TLSSocket.emit (node:domain:489:12)
+    at TLSSocket.Socket._onTimeout (node:net:550:8)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+2023-07-31T02:35:10.057Z info: Create order error: 
+2023-07-31T02:37:34.241Z info: Create order error: 
+2023-07-31T02:38:27.251Z info: Create order error: 
+2023-07-31T02:38:41.764Z info: Create order error: 
+2023-07-31T02:38:55.788Z info: Create order error: 
+2023-07-31T02:39:08.162Z info: Create order error: 
+2023-07-31T02:39:19.696Z info: Create order error: 
+2023-07-31T03:11:11.727Z info: Get asset by address error: 
+2023-07-31T03:11:44.018Z info: Get asset by address error: 
+2023-07-31T03:11:59.922Z info: Get asset by address error: 
+2023-07-31T03:21:09.695Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-07-31T03:26:04.653Z error: uncaughtException: Unhandled error. ({
+  code: -32603,
+  message: 'ESOCKETTIMEDOUT',
+  data: { originalError: { code: 'ESOCKETTIMEDOUT', connect: false } },
+  stack: 'Error: ESOCKETTIMEDOUT\n' +
+    '    at ClientRequest.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:816:19)\n' +
+    '    at Object.onceWrapper (node:events:627:28)\n' +
+    '    at ClientRequest.emit (node:events:513:28)\n' +
+    '    at ClientRequest.emit (node:domain:489:12)\n' +
+    '    at TLSSocket.emitRequestTimeout (node:_http_client:839:9)\n' +
+    '    at Object.onceWrapper (node:events:627:28)\n' +
+    '    at TLSSocket.emit (node:events:525:35)\n' +
+    '    at TLSSocket.emit (node:domain:489:12)\n' +
+    '    at TLSSocket.Socket._onTimeout (node:net:550:8)\n' +
+    '    at listOnTimeout (node:internal/timers:559:17)\n' +
+    '    at processTimers (node:internal/timers:502:7)'
+})
+Error [ERR_UNHANDLED_ERROR]: Unhandled error. ({
+  code: -32603,
+  message: 'ESOCKETTIMEDOUT',
+  data: { originalError: { code: 'ESOCKETTIMEDOUT', connect: false } },
+  stack: 'Error: ESOCKETTIMEDOUT\n' +
+    '    at ClientRequest.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:816:19)\n' +
+    '    at Object.onceWrapper (node:events:627:28)\n' +
+    '    at ClientRequest.emit (node:events:513:28)\n' +
+    '    at ClientRequest.emit (node:domain:489:12)\n' +
+    '    at TLSSocket.emitRequestTimeout (node:_http_client:839:9)\n' +
+    '    at Object.onceWrapper (node:events:627:28)\n' +
+    '    at TLSSocket.emit (node:events:525:35)\n' +
+    '    at TLSSocket.emit (node:domain:489:12)\n' +
+    '    at TLSSocket.Socket._onTimeout (node:net:550:8)\n' +
+    '    at listOnTimeout (node:internal/timers:559:17)\n' +
+    '    at processTimers (node:internal/timers:502:7)'
+})
+    at new NodeError (node:internal/errors:387:5)
+    at Web3ProviderEngine.emit (node:events:502:17)
+    at Web3ProviderEngine.emit (node:domain:489:12)
+    at /home/michel/pqd/fxce-priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:57:14
+    at afterRequest (/home/michel/pqd/fxce-priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:151:21)
+    at /home/michel/pqd/fxce-priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:176:21
+    at /home/michel/pqd/fxce-priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:238:9
+    at /home/michel/pqd/fxce-priceFeed/node_modules/async/internal/once.js:12:16
+    at replenish (/home/michel/pqd/fxce-priceFeed/node_modules/async/internal/eachOfLimit.js:61:25)
+    at /home/michel/pqd/fxce-priceFeed/node_modules/async/internal/eachOfLimit.js:71:9
+    at eachLimit (/home/michel/pqd/fxce-priceFeed/node_modules/async/eachLimit.js:43:36)
+    at /home/michel/pqd/fxce-priceFeed/node_modules/async/internal/doLimit.js:9:16
+    at end (/home/michel/pqd/fxce-priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:217:5)
+    at Request._callback (/home/michel/pqd/fxce-priceFeed/node_modules/@trufflesuite/web3-provider-engine/subproviders/rpc.js:36:21)
+    at self.callback (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:185:22)
+    at Request.emit (node:events:513:28)
+2023-07-31T08:41:25.717Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-07-31T10:11:16.006Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-08-01T03:31:12.712Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-08-01T03:41:00.303Z error: uncaughtException: Unhandled error. ({
+  code: -32603,
+  message: 'ETIMEDOUT',
+  data: { originalError: { code: 'ETIMEDOUT', connect: true } },
+  stack: 'Error: ETIMEDOUT\n' +
+    '    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)\n' +
+    '    at listOnTimeout (node:internal/timers:559:17)\n' +
+    '    at processTimers (node:internal/timers:502:7)'
+})
+Error [ERR_UNHANDLED_ERROR]: Unhandled error. ({
+  code: -32603,
+  message: 'ETIMEDOUT',
+  data: { originalError: { code: 'ETIMEDOUT', connect: true } },
+  stack: 'Error: ETIMEDOUT\n' +
+    '    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)\n' +
+    '    at listOnTimeout (node:internal/timers:559:17)\n' +
+    '    at processTimers (node:internal/timers:502:7)'
+})
+    at new NodeError (node:internal/errors:387:5)
+    at Web3ProviderEngine.emit (node:events:502:17)
+    at Web3ProviderEngine.emit (node:domain:489:12)
+    at /home/michel/pqd/fxce-priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:57:14
+    at afterRequest (/home/michel/pqd/fxce-priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:151:21)
+    at /home/michel/pqd/fxce-priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:176:21
+    at /home/michel/pqd/fxce-priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:238:9
+    at /home/michel/pqd/fxce-priceFeed/node_modules/async/internal/once.js:12:16
+    at replenish (/home/michel/pqd/fxce-priceFeed/node_modules/async/internal/eachOfLimit.js:61:25)
+    at /home/michel/pqd/fxce-priceFeed/node_modules/async/internal/eachOfLimit.js:71:9
+    at eachLimit (/home/michel/pqd/fxce-priceFeed/node_modules/async/eachLimit.js:43:36)
+    at /home/michel/pqd/fxce-priceFeed/node_modules/async/internal/doLimit.js:9:16
+    at end (/home/michel/pqd/fxce-priceFeed/node_modules/@trufflesuite/web3-provider-engine/index.js:217:5)
+    at Request._callback (/home/michel/pqd/fxce-priceFeed/node_modules/@trufflesuite/web3-provider-engine/subproviders/rpc.js:36:21)
+    at self.callback (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:185:22)
+    at Request.emit (node:events:513:28)
+2023-08-01T12:48:18.137Z error: uncaughtException: EACCES: permission denied, open '/home/michel/pqd/fxce-priceFeed/certs/apache-selfsigned.key'
+Error: EACCES: permission denied, open '/home/michel/pqd/fxce-priceFeed/certs/apache-selfsigned.key'
+    at Object.openSync (node:fs:590:3)
+    at Object.readFileSync (node:fs:458:35)
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/config/express.js:16:14)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Module.require (node:internal/modules/cjs/loader:1093:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/index.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+2023-08-01T12:49:09.432Z error: uncaughtException: EACCES: permission denied, open '/home/michel/pqd/fxce-priceFeed/certs/apache-selfsigned.key'
+Error: EACCES: permission denied, open '/home/michel/pqd/fxce-priceFeed/certs/apache-selfsigned.key'
+    at Object.openSync (node:fs:590:3)
+    at Object.readFileSync (node:fs:458:35)
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/config/express.js:16:14)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Module.require (node:internal/modules/cjs/loader:1093:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/index.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+2023-08-01T12:50:03.490Z error: uncaughtException: EACCES: permission denied, open '/home/michel/pqd/fxce-priceFeed/certs/apache-selfsigned.key'
+Error: EACCES: permission denied, open '/home/michel/pqd/fxce-priceFeed/certs/apache-selfsigned.key'
+    at Object.openSync (node:fs:590:3)
+    at Object.readFileSync (node:fs:458:35)
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/config/express.js:16:14)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Module.require (node:internal/modules/cjs/loader:1093:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/index.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+2023-08-01T12:50:34.711Z error: uncaughtException: app is not defined
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/index.js:39:18)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+2023-08-01T12:57:00.042Z error: uncaughtException: EACCES: permission denied, open '/home/michel/pqd/fxce-priceFeed/certs/apache-selfsigned.key'
+Error: EACCES: permission denied, open '/home/michel/pqd/fxce-priceFeed/certs/apache-selfsigned.key'
+    at Object.openSync (node:fs:590:3)
+    at Object.readFileSync (node:fs:458:35)
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/config/express.js:16:14)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Module.require (node:internal/modules/cjs/loader:1093:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/index.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+2023-08-01T13:01:12.419Z error: uncaughtException: https.listen is not a function
+TypeError: https.listen is not a function
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/config/express.js:72:7)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Module.require (node:internal/modules/cjs/loader:1093:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/index.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+2023-08-01T13:05:22.371Z error: uncaughtException: https.listen is not a function
+TypeError: https.listen is not a function
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/config/express.js:72:7)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Module.require (node:internal/modules/cjs/loader:1093:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/index.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+2023-08-01T13:08:38.070Z error: uncaughtException: EACCES: permission denied, open '/home/michel/pqd/fxce-priceFeed/certs/apache-selfsigned.key'
+Error: EACCES: permission denied, open '/home/michel/pqd/fxce-priceFeed/certs/apache-selfsigned.key'
+    at Object.openSync (node:fs:590:3)
+    at Object.readFileSync (node:fs:458:35)
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/config/express.js:16:14)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Module.require (node:internal/modules/cjs/loader:1093:19)
+    at require (node:internal/modules/cjs/helpers:108:18)
+    at Object.<anonymous> (/home/michel/pqd/fxce-priceFeed/index.js:7:16)
+    at Module._compile (node:internal/modules/cjs/loader:1191:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1245:10)
+    at Module.load (node:internal/modules/cjs/loader:1069:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:904:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+2023-08-01T13:21:51.435Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-08-01T14:17:03.746Z error: uncaughtException: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+Error: PollingBlockTracker - encountered an error while attempting to update latest block:
+Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/michel/pqd/fxce-priceFeed/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    at PollingBlockTracker._performSync (/home/michel/pqd/fxce-priceFeed/node_modules/eth-block-tracker/src/polling.js:51:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
